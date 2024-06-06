@@ -1,0 +1,38 @@
+https://cdn-6.motorsport.com/images/amp/0RrLj9v0/s1000/max-verstappen-red-bull-racing.webp
+https://cdn-3.motorsport.com/images/amp/YBeW9kK2/s1000/dani-pedrosa-red-bull-ktm-fact.webp
+    <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="10000">
+                <img class="slide" src="https://cdn-6.motorsport.com/images/amp/0RrLj9v0/s1000/max-verstappen-red-bull-racing.webp
+            " class="d-block w-100" alt="F1">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img class="slide"
+                    src="https://cdn-3.motorsport.com/images/amp/YBeW9kK2/s1000/dani-pedrosa-red-bull-ktm-fact.webp"
+                    class="d-block w-100" alt="KTMmoto">
+            </div>
+            <div class="carousel-item">
+                <img class="slide"
+                    src="https://www.fai.org/sites/default/files/styles/article_detail_xxlarge/public/article/ap-1xj9a4nf12111_news_0.jpg?itok=H3NGhoZc"
+                    class="d-block w-100" alt="avião">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+ Imagens
+ 
+    <div>
+        <div class="RedBullOriginal"><img src="01-Redbull_Original.png" alt="01-Redbull_Original"></div>
+        <div class="RedBullAcai"><img src="02-Redbull_Açai.png" alt="02-Redbull_Açai"></div>
+        <div class="RedBullTropical"><img src="03-Redbull_Tropical.png" alt="03-Redbull_Tropical"></div>
+        <div class="RedBullWinter"><img src="04-Redbull_Winter.png" alt="04-Redbull_Winter"></div>
+    </div>

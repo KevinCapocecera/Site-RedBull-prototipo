@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2022/02/23084525/Red-Bull-RB18-testing-planetf1.jpg);
+    background-size: 100%;
+
+    margin: 0;
+}
+
+.logo {
+    position: absolute;
+    left: 40px;
+    top: -20px;
+    height: 150px;
+    width: 150px;
+   
+
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+button {
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(230, 228, 228);
+
+}
+
+button:hover {
+    outline: 1px solid #8d0101;
+    color: #8d0101;
+}
+
+.Drinks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(230, 228, 228);
+    text-decoration: none;
+    color: black;
+
+    font-family: "Poppins", sans-serif;
+    transition-duration: 0.3s;
+}
+
+.Eventos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(230, 228, 228);
+    text-decoration: none;
+    color: black;
+
+    font-family: "Poppins", sans-serif;
+    transition-duration: 0.3s;
+
+}
+
+.Atletas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(230, 228, 228);
+    text-decoration: none;
+    color: black;
+
+    font-family: "Poppins", sans-serif;
+    transition-duration: 0.3s;
+
+}
+
+a:hover {
+    outline: 1px solid #8d0101;
+    color: #8d0101;
+    cursor: pointer;
+    
+}
+
+menu {
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: auto;
+    left: auto;
+    flex-direction: row;
+
+}
+
+.RedBullOriginal {
+    position: fixed;
+    bottom: -200px;
+    left: 0;
+    filter: brightness(75%);
+    object-fit: cover;
+
+}
+
+.RedBullAcai {
+    position: fixed;
+    bottom: -150px;
+    left: 100px;
+    filter: brightness(75%);
+
+}
+
+.RedBullTropical {
+    position: fixed;
+    bottom: -100px;
+    left: 200px;
+    filter: brightness(75%);
+}
+
+.RedBullWinter {
+    position: fixed;
+    bottom: -50px;
+    left: 300px;
+    filter: brightness(75%);
+
+}
+
+.texto{
+    
+    margin-bottom: 500px;
+    margin-left: 1000px;
+    padding-left: 150px;
+    padding-top: 100px;
+
+    font-size: 100px;
+    font-family: 'Seymour one';
+    color: white;
+    
+ 
+    
+}
+
+.Produtos {
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(182, 16, 16, 0.9);
+    color: white;
+    text-decoration: none;
+
+
+    font-family: "Poppins", sans-serif;
+
+    transition-duration: 0.7s;
+}
+
+.Produtos:hover {
+    outline: 1px solid #8d0101;
+    color: #ffffff;
+    background-color: rgb(255, 74, 2);
+    cursor: pointer;
+}
+
+.Empresa {
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(182, 16, 16, 0.9);
+    color: white;
+    text-decoration: none;
+
+    font-family: "Poppins", sans-serif;
+    transition-duration: 0.7s;
+}
+
+.Empresa:hover {
+    outline: 1px solid #8d0101;
+    color: #ffffff;
+    background-color: rgb(255, 74, 2);
+    cursor: pointer;
+}
+
+.carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    margin-bottom: 100px;
+}
+
+.slide {
+    width: 800px;
+    height: 500px;
+}
+
+.textoCarrosel{
+    font-size: 50px;
+    font-family: 'Seymour one';
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.raio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    width: 100px;
+    height: 100px;
+    transform: rotate(30deg);
+   
+    
+}
